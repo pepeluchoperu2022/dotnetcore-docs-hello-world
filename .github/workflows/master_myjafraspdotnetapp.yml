@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'myjafraspdotnetapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_348C13EED52C47F18CAD6326F505BEB4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5BD607DE089440BF8C3B68EDEBD836EB }}
           package: .
